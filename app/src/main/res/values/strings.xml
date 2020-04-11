@@ -6,6 +6,7 @@
     <string name="quiz_stats">Your Score: 0</string>
 
     <string name="true_button">True</string>
+    <string name="false_button">False</string>
 
     <string name="correct_text">Correct!</string>
     <string name="incorrect_text">Incorrect!</string>

@@ -39,7 +39,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="#509CD8"
-        android:text="True"
+        android:text="@string/true_button"
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
 
@@ -49,7 +49,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:background="#DE4848"
-        android:text="False"
+        android:text="@string/false_button"
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
 </LinearLayout>
